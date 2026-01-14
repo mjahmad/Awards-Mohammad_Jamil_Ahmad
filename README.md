@@ -1,2 +1,5 @@
-# Distinction-in-Teaching-Award-2024---Mohammad-Jamil-Ahmad
-This repository contains all the evidence and materials submitted in support of the Distinction in Teaching Award 2024 for Mohammad Jamil Ahmad.  You can view each file by clicking on it or download individual files from the "Raw" tab on the right. Alternatively, you can clone the entire repository using Git for easier access.
+# Award Submissions Evidence Repository — Mohammad Jamil Ahmad
+
+This repository contains all supporting evidence and materials submitted in support of multiple teaching- and engagement-related award nominations for Mohammad Jamil Ahmad. The materials in this repository document instructional activities, industry and community engagement, course design, applied projects, and related outcomes during the applicable evaluation periods.
+
+Each file can be viewed directly by clicking on it, or downloaded individually using the “Raw” option. Alternatively, the entire repository can be cloned using Git for easier access and offline review.
